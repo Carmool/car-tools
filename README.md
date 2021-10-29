@@ -11,6 +11,10 @@
 
 * https://github.com/fr3ts0n/AndrOBD
 
+## ECU 
+
+* https://rusefi.com/
+
 ## Misc
 
 * https://github.com/jgamblin/CarHackingTools
