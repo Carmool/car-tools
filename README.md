@@ -7,6 +7,10 @@
 *  https://copperhilltech.com/pican-2-can-bus-interface-for-raspberry-pi/
 *  https://www.autopi.io/
 
-## Diagnostics software
+## Diagnostics
 
 * https://github.com/fr3ts0n/AndrOBD
+
+## Misc
+
+* https://github.com/jgamblin/CarHackingTools
