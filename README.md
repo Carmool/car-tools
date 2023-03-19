@@ -6,6 +6,7 @@
 *  https://github.com/Seeed-Studio/Seeed_Arduino_CAN
 *  https://copperhilltech.com/pican-2-can-bus-interface-for-raspberry-pi/
 *  https://www.autopi.io/
+*  https://docs.macchina.cc/
 
 ## Diagnostics
 
