@@ -11,6 +11,7 @@
 ## Diagnostics
 
 * https://github.com/fr3ts0n/AndrOBD
+* https://datazap.me/
 
 # CAN Bus
 
